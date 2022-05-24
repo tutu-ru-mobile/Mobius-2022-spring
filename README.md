@@ -10,8 +10,9 @@
 ## Техническое интервью
 ## Алгоритмическая секция
 ### [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+Here you'll find implementations of popular algorithms and data structures in everyone's favorite new language Swift, with detailed explanations of how they work.
 
-### [I will teach you to be good at programming interviews](https://www.interviewcake.com)
+### [Practice programming interview questions](https://www.interviewcake.com)
 
 ## Архитектурная секция
 ### [Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)

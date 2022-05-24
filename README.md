@@ -21,5 +21,3 @@ Here you'll find implementations of popular algorithms and data structures in ev
 
 ### [Online whiteboard](https://excalidraw.com)
 ![](Resources/excalidraw.png)
-
-## Финальное интервью

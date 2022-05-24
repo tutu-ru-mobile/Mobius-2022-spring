@@ -1,4 +1,4 @@
-# Mobius-2022-spring
+# Mobius 2022 spring
 ### [Navigating the iOS Interview](https://www.raywenderlich.com/10625296-navigating-the-ios-interview)
 
 ## Резюме

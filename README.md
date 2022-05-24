@@ -1,9 +1,6 @@
 # Mobius-2022-spring
-Mobius 2022 materials
+[Navigating the iOS Interview](https://www.raywenderlich.com/10625296-navigating-the-ios-interview)
 
-
-
-# Mobius-2022-Spring
 ## Резюме
 [iOS Developer Resume Examples](https://www.raywenderlich.com/2617-ios-developer-resume-examples)
 
@@ -12,8 +9,12 @@ Mobius 2022 materials
 ## Алгоритмическая секция
 [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
+[I will teach you to be good at programming interviews](https://www.interviewcake.com)
+
 ## Архитектурная секция
 [Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)
 
 [Online whiteboard](https://excalidraw.com)
+![](Resources/excalidraw.png)
+
 ## Финальное интервью

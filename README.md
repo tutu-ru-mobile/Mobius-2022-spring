@@ -20,6 +20,7 @@ Here you'll find implementations of popular algorithms and data structures in ev
 
 ## Архитектурная секция
 #### [Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)
+One of my favorite places to prepare to the system design interview 🤩
 
 ![](https://github.com/weeeBox/mobile-system-design/blob/master/images/twitter-feed-high-level-diagram.svg)
 

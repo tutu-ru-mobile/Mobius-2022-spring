@@ -10,6 +10,7 @@
 ## Техническое интервью
 #### [Over 150 iOS interview questions](https://www.hackingwithswift.com/interview-questions)
 #### [50 iOS Interview Questions And Answers](https://duruldalkanat.medium.com/ios-interview-questions-13840247a57a)
+#### [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers#toc-anchor-006)
 
 ## Алгоритмическая секция
 #### [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)

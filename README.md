@@ -17,6 +17,7 @@
 Here you'll find implementations of popular algorithms and data structures in everyone's favorite new language Swift, with detailed explanations of how they work.
 
 #### [Practice programming interview questions](https://www.interviewcake.com)
+#### [Big-O нотация на котиках](https://antonz.ru/big-o/)
 
 ## Архитектурная секция
 #### [Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)
